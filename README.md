@@ -1,5 +1,1 @@
-- 👋 hi, i’m @su6ee
-- 🌱 i’m currently studying machine learning
-- 💞️ i’m looking to collaborate on an articial intelligence art project
-- 🍞 i'm working on the hiddenlevers & orion advisor tech dev team as a full time jr. front end dev and sr. multidisciplinary designer
-- 🍒 i'm on instagram @subee.png
+
